@@ -28,5 +28,6 @@ React;
 Сделать, чтобы json со студиями асинхронно подтягивался с локального сервера при инициализации (#task4);
 
 Удачи, если будут какие-то вопросы, то пишите, kirill@devjs.ru
+Либо telegram https://t.me/kirillborovkov
 
 Logo https://128121.selcdn.ru/react/logo.png
