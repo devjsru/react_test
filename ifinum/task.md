@@ -16,7 +16,7 @@
 
 ## API
 
-Использовать `db.json` (лежит по соседству с этим файлом) для https://github.com/typicode/json-server
+Использовать [db.json]("https://github.com/devjsru/react_test/blob/master/ifinum/db.json") (лежит по соседству с этим файлом) для https://github.com/typicode/json-server
 
 ## Необязательная задача
 
